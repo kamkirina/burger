@@ -142,6 +142,10 @@ body {
   letter-spacing: -0.6px;
 }
 
+.burger__lang{
+  margin-bottom: 32px;
+}
+
 .burger__lang-link {
   margin-right: 7px;
 }
